@@ -29,7 +29,9 @@ The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buy
 The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.<br>
 The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.<br>
 
-
+<br>
+# DASHBOARD 
+<br>
 <img>![Vrinda Store Dashboard](https://github.com/user-attachments/assets/e8b8c696-f2c3-4728-b467-492c8de34ae6)</img>
 
 
