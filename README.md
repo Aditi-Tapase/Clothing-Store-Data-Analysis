@@ -28,3 +28,6 @@ Women customers are more likely to buy products compared to men (~65%).<br>
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.<br>
 The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.<br>
 The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.<br>
+
+
+<video> D:\Aditi\Java recording\HTML, CSS, JS\Vrinda Store recording.mp4 </video>
