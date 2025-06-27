@@ -32,7 +32,8 @@ The maximum number of products customer orders from Amazon, Flipkart and Myntra 
 <br>
 # DASHBOARD 
 <br>
-<img>![Vrinda Store Dashboard](https://github.com/user-attachments/assets/e8b8c696-f2c3-4728-b467-492c8de34ae6)</img>
+<img>![Vrinda Store Dashboard](https://github.com/user-attachments/assets/dccfba2a-3d39-4eca-bb6d-47ca60262fd5)
+</img>
 
 
 
