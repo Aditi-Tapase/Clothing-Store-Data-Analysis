@@ -1,4 +1,4 @@
-# Clothing-Store-Data-Analysis
+# Clothing-Store Excel Dashboard
 # Interactive Dashboard using MS Excel -[pivot table, slicer]
 <br>
 Objective: <br>
