@@ -1,11 +1,8 @@
 # Clothing-Store Excel Dashboard
 # Interactive Dashboard using MS Excel -[pivot table, slicer]
 <br>
-teObjective:</h2> <br>
+<h2></h2>Objective:</h2> <br>
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
-<br> <br>
-<h2>Dataset Used: </h2><br>
-Virnda store data <br>
 <br>
 <br>
 <h2>Tools Used:</h2><br>
